@@ -97,14 +97,6 @@
 
 ---
 
-### 📈 Contribution activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohanStefanes&bg_color=1e1e2e&color=cdd6f4&title_color=89b4fa&line=89b4fa&point=cba6f7&area=true&area_color=89b4fa&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
-</p>
-
----
-
 ### 📫 Reach me
 
 <p align="center">
