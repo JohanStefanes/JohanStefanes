@@ -23,6 +23,10 @@
 </p>
 
 <p align="center">
+  <sub>TypeScript&nbsp; ·&nbsp; React&nbsp; ·&nbsp; Next.js&nbsp; ·&nbsp; Three.js&nbsp; ·&nbsp; Python&nbsp; ·&nbsp; Django&nbsp; ·&nbsp; Java&nbsp; ·&nbsp; Spring&nbsp; ·&nbsp; Docker&nbsp; ·&nbsp; Kubernetes&nbsp; ·&nbsp; GitLab&nbsp; ·&nbsp; Git</sub>
+</p>
+
+<p align="center">
   <sub>plus&nbsp; <b>Claude API</b>&nbsp; ·&nbsp; GSAP&nbsp; ·&nbsp; Framer Motion&nbsp; ·&nbsp; React Three Fiber</sub>
 </p>
 
