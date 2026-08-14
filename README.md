@@ -1,6 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89B4FA&center=true&vCenter=true&width=750&height=60&lines=Hi%2C+I'm+Johan+%F0%9F%91%8B;Software+Engineering+Apprentice+%40+Switch;Creative+Developer;AI+tools+%2B+motion-led+web+experiences" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=52&pause=1200&color=89B4FA&center=true&vCenter=true&width=900&height=90&lines=Johan+Stefanes" alt="Johan Stefanes" />
+</p>
+
+<h3 align="center">Software Engineering Apprentice&nbsp; · &nbsp;Creative Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=CBA6F7&center=true&vCenter=true&width=700&height=40&lines=Building+at+the+intersection+of+interfaces%2C+automation+%26+AI;AI+tools+%2B+motion-led+web+experiences;%40+Switch+%C2%B7+Zurich+%F0%9F%87%A8%F0%9F%87%AD" alt="tagline" />
+</p>
 
 <p align="center">
   <a href="https://johanstefanes.ch"><img src="https://img.shields.io/badge/Portfolio-johanstefanes.ch-89B4FA?style=flat-square&labelColor=1e1e2e&logo=vercel&logoColor=white" alt="Portfolio" /></a>
