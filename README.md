@@ -104,3 +104,5 @@
   <a href="https://www.linkedin.com/in/johan-stefanes-20b719246/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hi@johanstefanes.ch"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,50:cba6f7,100:f5c2e7&height=120&section=footer&animation=twinkling" width="100%" alt="footer wave" />
