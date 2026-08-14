@@ -5,10 +5,6 @@
 <h3 align="center">Software Engineering Apprentice&nbsp; · &nbsp;Creative Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=CBA6F7&center=true&vCenter=true&width=700&height=40&lines=Building+at+the+intersection+of+interfaces%2C+automation+%26+AI;AI+tools+%2B+motion-led+web+experiences;%40+Switch+%C2%B7+Zurich+%F0%9F%87%A8%F0%9F%87%AD" alt="tagline" />
-</p>
-
-<p align="center">
   <a href="https://johanstefanes.ch"><img src="https://img.shields.io/badge/Portfolio-johanstefanes.ch-89B4FA?style=flat-square&labelColor=1e1e2e&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.switch.ch"><img src="https://img.shields.io/badge/Switch-CSEC%20Division-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Switch" /></a>
   <img src="https://img.shields.io/badge/Zurich%20%F0%9F%87%A8%F0%9F%87%AD-EN%20%2F%20DE-a6e3a1?style=flat-square&labelColor=1e1e2e" alt="Zurich" />
