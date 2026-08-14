@@ -97,23 +97,6 @@
 
 ---
 
-### 📊 The numbers
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JohanStefanes&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanStefanes&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohanStefanes&theme=catppuccin_mocha&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JohanStefanes&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="trophies" />
-</p>
-
----
-
 ### 🐍 Watch the snake eat my contributions
 
 <p align="center">
