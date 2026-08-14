@@ -97,14 +97,6 @@
 
 ---
 
-### 🛰️ My stack in orbit
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JohanStefanes/JohanStefanes/main/assets/tech-orbit.svg" alt="tech stack orbit animation" width="620" />
-</p>
-
----
-
 ### 🐍 Watch the snake eat my contributions
 
 <p align="center">
