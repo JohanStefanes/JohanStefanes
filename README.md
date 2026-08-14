@@ -97,7 +97,7 @@
 
 ---
 
-### 🟡 Watch Pac-Man eat my contributions
+### 🟡 Pac-Man eating my contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JohanStefanes/JohanStefanes/pacman/pacman-contribution-graph-dark.svg" alt="pacman contribution graph" />
