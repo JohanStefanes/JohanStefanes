@@ -6,14 +6,12 @@
 
 <p align="center">
   <a href="https://johanstefanes.ch"><img src="https://img.shields.io/badge/Portfolio-johanstefanes.ch-89B4FA?style=flat-square&labelColor=1e1e2e&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.switch.ch"><img src="https://img.shields.io/badge/Switch-CSEC%20Division-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Switch" /></a>
-  <img src="https://img.shields.io/badge/Zurich%20%F0%9F%87%A8%F0%9F%87%AD-EN%20%2F%20DE-a6e3a1?style=flat-square&labelColor=1e1e2e" alt="Zurich" />
-  <img src="https://komarev.com/ghpvc/?username=JohanStefanes&style=flat-square&labelColor=1e1e2e&color=f9e2af&label=Profile+views" alt="Profile views" />
+  <a href="https://www.switch.ch"><img src="https://img.shields.io/badge/Switch-CSEC-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Switch" /></a>
+  <img src="https://img.shields.io/badge/Zurich%20%F0%9F%87%A8%F0%9F%87%AD-a6e3a1?style=flat-square&labelColor=1e1e2e" alt="Zurich" />
 </p>
 
 <p align="center">
-  Developer building at the intersection of product interfaces, automation and AI.<br>
-  I like clear interfaces, restrained design, and systems that make complex work feel effortless.
+  Building at the intersection of product, automation and AI.
 </p>
 
 ---
