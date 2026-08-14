@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=52&pause=1200&color=89B4FA&center=true&vCenter=true&width=900&height=90&lines=Johan+Stefanes" alt="Johan Stefanes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=70&pause=1200&color=89B4FA&center=true&vCenter=true&width=1000&height=130&lines=Johan+Stefanes" alt="Johan Stefanes" />
 </p>
 
 <h3 align="center">Software Engineering Apprentice&nbsp; · &nbsp;Creative Developer</h3>
