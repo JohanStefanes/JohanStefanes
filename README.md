@@ -97,10 +97,10 @@
 
 ---
 
-### 🐍 Watch the snake eat my contributions
+### 🟡 Watch Pac-Man eat my contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JohanStefanes/JohanStefanes/output/github-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/JohanStefanes/JohanStefanes/pacman/pacman-contribution-graph-dark.svg" alt="pacman contribution graph" />
 </p>
 
 ---
