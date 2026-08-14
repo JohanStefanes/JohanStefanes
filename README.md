@@ -1,81 +1,97 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=64&pause=1200&color=89B4FA&center=true&vCenter=true&width=1000&height=120&lines=Johan+Stefanes" alt="Johan Stefanes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=70&pause=1200&color=89B4FA&center=true&vCenter=true&width=1000&height=130&lines=Johan+Stefanes" alt="Johan Stefanes" />
+</p>
+
+<h3 align="center">Software Engineering Apprentice&nbsp; · &nbsp;Creative Developer</h3>
+
+<p align="center">
+  <a href="https://johanstefanes.ch"><img src="https://img.shields.io/badge/Portfolio-johanstefanes.ch-89B4FA?style=flat-square&labelColor=1e1e2e&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.switch.ch"><img src="https://img.shields.io/badge/Switch-CSEC-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Switch" /></a>
+  <img src="https://img.shields.io/badge/Zurich%20%F0%9F%87%A8%F0%9F%87%AD-a6e3a1?style=flat-square&labelColor=1e1e2e" alt="Zurich" />
 </p>
 
 <p align="center">
-  <b>Software Engineering Apprentice</b> &nbsp;·&nbsp; Creative Developer
+  Building at the intersection of product, automation and AI.
 </p>
 
-<p align="center">
-  <sub>Building at the intersection of product, automation &amp; AI &nbsp;·&nbsp; Zürich 🇨🇭 &nbsp;·&nbsp; EN / DE</sub>
-</p>
+---
 
-<p align="center">
-  <a href="https://johanstefanes.ch">Portfolio</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/johan-stefanes-20b719246/">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:hi@johanstefanes.ch">Email</a>
-</p>
-
-<br />
-
-## Stack
+### 🧰 My stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,threejs,python,django,java,spring,docker,kubernetes,gitlab,git&theme=dark&perline=12" alt="tech stack" />
 </p>
 
 <p align="center">
-  <sub>Claude API &nbsp;·&nbsp; GSAP &nbsp;·&nbsp; Framer Motion &nbsp;·&nbsp; React Three Fiber</sub>
+  <sub>plus&nbsp; <b>Claude API</b>&nbsp; ·&nbsp; GSAP&nbsp; ·&nbsp; Framer Motion&nbsp; ·&nbsp; React Three Fiber</sub>
 </p>
 
-<br />
+---
 
-## Selected work
+### 🚀 Featured work
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
-      <b>DWM App</b><br />
-      <sub>Django threat-intelligence dashboard for surfacing and triaging signals.</sub><br /><br />
-      <sub><code>Python</code> <code>Django</code></sub> &nbsp;·&nbsp; <a href="https://johanstefanes.ch"><sub>Portfolio&nbsp;↗</sub></a>
+      <h4>🛰️ DWM App</h4>
+      <p>Django threat-intelligence dashboard for surfacing and triaging signals.</p>
+      <sub><code>Python</code> · <code>Django</code></sub>
+      <br><br>
+      <a href="https://johanstefanes.ch">→ portfolio</a>
     </td>
     <td width="50%" valign="top">
-      <b>Cast Composite</b><br />
-      <sub>Python automation that stitches and composites video without the manual grind.</sub><br /><br />
-      <sub><code>Python</code></sub> &nbsp;·&nbsp; <a href="https://johanstefanes.ch"><sub>Portfolio&nbsp;↗</sub></a>
+      <h4>🎬 Cast Composite</h4>
+      <p>Python automation tool that stitches and composites video without the manual grind.</p>
+      <sub><code>Python</code></sub>
+      <br><br>
+      <a href="https://johanstefanes.ch">→ portfolio</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>Claude Buddy</b><br />
-      <sub>A pixel desktop pet that visualizes what my Claude agent is doing in real time.</sub><br /><br />
-      <sub><code>Python</code> <code>Claude API</code></sub> &nbsp;·&nbsp; <a href="https://github.com/JohanStefanes/claude-buddy"><sub>Repo&nbsp;↗</sub></a>
+      <h4>🤖 Claude Buddy</h4>
+      <p>A pixel desktop pet that visualizes what my Claude agent is doing in real time.</p>
+      <sub><code>Python</code> · <code>Claude API</code></sub>
+      <br><br>
+      <a href="https://github.com/JohanStefanes/claude-buddy">→ repo</a>
     </td>
     <td width="50%" valign="top">
-      <b>From Spark to World</b><br />
-      <sub>A 3D scroll experience built with Three.js and React Three Fiber.</sub><br /><br />
-      <sub><code>Three.js</code> <code>R3F</code> <code>GSAP</code></sub> &nbsp;·&nbsp; <a href="https://johanstefanes.ch"><sub>Portfolio&nbsp;↗</sub></a>
+      <h4>🌍 From Spark to World</h4>
+      <p>A 3D scroll experience built with Three.js and React Three Fiber.</p>
+      <sub><code>Three.js</code> · <code>R3F</code> · <code>GSAP</code></sub>
+      <br><br>
+      <a href="https://johanstefanes.ch">→ portfolio</a>
     </td>
   </tr>
 </table>
 
-<br />
+---
 
-## Now
+### 🔭 Current focus
 
-- Building security tooling and internal platforms at **Switch** (CSEC)
-- Going deep on the **Claude API** — agents, tool use, workflow automation
-- Motion-led web with **Three.js**, **R3F** and **GSAP**
-- Apprenticeship coursework and BBW school modules
+- 💼 Software engineering apprentice building security tooling and internal platforms at Switch
+- 🧠 Going deep on the Claude API: agents, tool use, and workflow automation
+- 🎨 Motion-led web with Three.js, R3F, GSAP and Framer Motion
+- 🎓 Working through my apprenticeship and BBW school modules
 
-<sub>18 Anthropic Claude certifications</sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Anthropic-18%20Claude%20Certifications-D97757?style=flat-square&labelColor=1e1e2e" alt="Anthropic certifications" />
+</p>
 
-<br />
+---
 
-## Contributions
+### 🟡 Pac-Man eating my contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JohanStefanes/JohanStefanes/pacman/pacman-contribution-graph-dark.svg" alt="pacman contribution graph" />
+</p>
+
+---
+
+### 📫 Reach me
+
+<p align="center">
+  <a href="https://johanstefanes.ch"><img src="https://img.shields.io/badge/Website-johanstefanes.ch-89B4FA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/johan-stefanes-20b719246/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hi@johanstefanes.ch"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
