@@ -1,0 +1,59 @@
+<svg width="800" height="400" viewBox="0 0 800 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#cba6f7"/>
+      <stop offset="55%" stop-color="#89b4fa"/>
+      <stop offset="100%" stop-color="#1e2030"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#89b4fa" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#89b4fa" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- soft central halo -->
+  <circle cx="400" cy="200" r="150" fill="url(#halo)"/>
+
+  <!-- orbit ring 1 (tilt 0) -->
+  <g transform="rotate(0 400 200)">
+    <path id="o1" d="M190,200 a210,70 0 1,0 420,0 a210,70 0 1,0 -420,0" stroke="#89b4fa" stroke-opacity="0.18" stroke-width="1.5"/>
+    <circle r="10" fill="#3178C6" filter="url(#glow)">
+      <animateMotion dur="20s" repeatCount="indefinite" rotate="0"><mpath xlink:href="#o1"/></animateMotion>
+    </circle>
+    <circle r="10" fill="#61DAFB" filter="url(#glow)">
+      <animateMotion dur="20s" begin="-10s" repeatCount="indefinite" rotate="0"><mpath xlink:href="#o1"/></animateMotion>
+    </circle>
+  </g>
+
+  <!-- orbit ring 2 (tilt 60) -->
+  <g transform="rotate(60 400 200)">
+    <path id="o2" d="M190,200 a210,70 0 1,0 420,0 a210,70 0 1,0 -420,0" stroke="#cba6f7" stroke-opacity="0.18" stroke-width="1.5"/>
+    <circle r="10" fill="#FFD43B" filter="url(#glow)">
+      <animateMotion dur="27s" keyPoints="1;0" keyTimes="0;1" calcMode="linear" repeatCount="indefinite"><mpath xlink:href="#o2"/></animateMotion>
+    </circle>
+    <circle r="10" fill="#D97757" filter="url(#glow)">
+      <animateMotion dur="27s" keyPoints="1;0" keyTimes="0;1" calcMode="linear" begin="-13.5s" repeatCount="indefinite"><mpath xlink:href="#o2"/></animateMotion>
+    </circle>
+  </g>
+
+  <!-- orbit ring 3 (tilt 120) -->
+  <g transform="rotate(120 400 200)">
+    <path id="o3" d="M190,200 a210,70 0 1,0 420,0 a210,70 0 1,0 -420,0" stroke="#f5c2e7" stroke-opacity="0.18" stroke-width="1.5"/>
+    <circle r="10" fill="#2496ED" filter="url(#glow)">
+      <animateMotion dur="33s" repeatCount="indefinite"><mpath xlink:href="#o3"/></animateMotion>
+    </circle>
+    <circle r="10" fill="#0AE448" filter="url(#glow)">
+      <animateMotion dur="33s" begin="-16.5s" repeatCount="indefinite"><mpath xlink:href="#o3"/></animateMotion>
+    </circle>
+  </g>
+
+  <!-- core -->
+  <circle cx="400" cy="200" r="36" fill="url(#core)" filter="url(#glow)">
+    <animate attributeName="r" values="36;39;36" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="400" y="208" text-anchor="middle" font-family="'Fira Code', ui-monospace, monospace" font-size="26" font-weight="700" fill="#11111b">&#60;/&#62;</text>
+</svg>
